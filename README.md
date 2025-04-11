@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanshupal
 - 👀 I’m interested in ... problem solving
-- 🌱 I’m currently learning ... python advance and fremworks
+- 🌱 I’m currently learning ... javascript react and fremworks
 - 💞️ I’m looking to collaborate on ... any project 
 - 📫 How to reach me ... 7984429387
 
